@@ -1,0 +1,51 @@
+Order #1
+Table #4
+Tea
+
+Order #2
+Table #4
+Juice
+
+Order #3
+Table #1
+Blood Lion
+
+Order #4
+Table #1
+Spicy Girl
+
+Order #5
+Table #1
+White Angel
+
+Order #6
+Table #1
+Blood Lion
+
+Order #7
+Table #1
+Spicy Girl
+
+Order #8
+Table #1
+White Angel
+
+Order #9
+Table #4
+Cola
+
+Order #10
+Table #1
+Tea
+
+Order #11
+Table #1
+Whiskey
+
+Order #12
+Table #4
+Big Boy
+
+Order #13
+Table #1
+Big Boy

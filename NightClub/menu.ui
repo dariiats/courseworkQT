@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Menu</class>
+ <widget class="QDialog" name="Menu">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/StartWindow/Design/Фон/Menu.png);</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_Main">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>120</y>
+     <width>141</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 0, 0);
+background-image: url(:/StartWindow/Design/Фон/white.jpg);
+font: 25 12pt &quot;Cascadia Code Light&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>Main menu</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Bar">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>150</y>
+     <width>141</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/StartWindow/Design/Фон/white.jpg);
+font: 25 12pt &quot;Cascadia Code Light&quot;;
+color: rgb(0, 0, 0)
+</string>
+   </property>
+   <property name="text">
+    <string>Bar menu</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>51</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(207, 207, 207)</string>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

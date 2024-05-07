@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AdminWindow</class>
+ <widget class="QDialog" name="AdminWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/StartWindow/Design/Фон/AdminOffice.png);</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_Workers">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>170</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Cascadia Code Light</family>
+     <pointsize>10</pointsize>
+     <weight>3</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(207, 207, 207);
+font: 25 10pt &quot;Cascadia Code Light&quot;;
+background-image: url(:/StartWindow/Design/Фон/ColorResponse.png);</string>
+   </property>
+   <property name="text">
+    <string>Workers</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_CallSecurity">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>210</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(207, 207, 207);
+font: 25 10pt &quot;Cascadia Code Light&quot;;
+background-image: url(:/StartWindow/Design/Фон/Red.png);</string>
+   </property>
+   <property name="text">
+    <string>Call security!</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Reviews">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>170</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(207, 207, 207);
+font: 25 10pt &quot;Cascadia Code Light&quot;;
+background-image: url(:/StartWindow/Design/Фон/ColorResponse.png);</string>
+   </property>
+   <property name="text">
+    <string>Reviews</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Orders">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>170</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(207, 207, 207);
+font: 25 10pt &quot;Cascadia Code Light&quot;;
+background-image: url(:/StartWindow/Design/Фон/ColorResponse.png);</string>
+   </property>
+   <property name="text">
+    <string>Orders</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>110</y>
+     <width>200</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="styleSheet">
+       <string notr="true">color: rgb(207, 207, 207);
+background-image: url(:/StartWindow/Design/Фон/ColorResponse.png);
+font: 25 11pt &quot;Cascadia Code Light&quot;;</string>
+      </property>
+      <property name="text">
+       <string>You are in admin mode!</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_2">
+      <property name="styleSheet">
+       <string notr="true">color: rgb(207, 207, 207);
+font: 25 10pt &quot;Cascadia Code Light&quot;;
+background-image: url(:/StartWindow/Design/Фон/ColorResponse.png);</string>
+      </property>
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Choose an action:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="pushButton_Exit">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

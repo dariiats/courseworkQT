@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/StartWindow">
+        <file>Design/Фон/LogoClub.png</file>
+        <file>Design/Фон/white.jpg</file>
+        <file>Design/Фон/Menu.png</file>
+        <file>Design/Фон/Main Menu.png</file>
+        <file>Design/Фон/BarMenu.png</file>
+        <file>Design/Фон/DanceFloor.png</file>
+        <file>Design/Фон/Place.png</file>
+        <file>Design/Фон/Dancing.png</file>
+        <file>Design/Фон/OrderColor.png</file>
+        <file>Design/Фон/Офіціантка.png</file>
+        <file>Design/Фон/схемаЗалу.png</file>
+        <file>Design/Фон/StartWindowBack.jpg</file>
+        <file>Design/Фон/ColorResponse.png</file>
+        <file>Design/Фон/bell_1f514.png</file>
+        <file>Design/Фон/СповіщенняПрисутні.png</file>
+        <file>Design/Фон/Дизайн без назви (2).png</file>
+        <file>Design/Фон/Red.png</file>
+        <file>Design/Фон/AdminOffice.png</file>
+    </qresource>
+</RCC>
